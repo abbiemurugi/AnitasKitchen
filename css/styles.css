@@ -1,0 +1,50 @@
+.landingPage{
+  height: 550px;
+   background-image: url("../images/landing.jpg")
+}
+.landingPage img{
+  position: relative;
+  top: 150px;
+  left: 500px;
+}
+.landingPage h3{
+  position: relative;
+  top: 150px;
+  left: 450px;
+  color: white
+}
+.red{
+  background-color: red;
+  height:100px;
+  width: 200px;
+}
+#Breakfast{
+  background-image: url("../images/breakfast.jpg");
+  color: white;
+  position: relative;
+}
+#Lunch{
+  background-image: url("../images/lunch.jpg");
+  color: white;
+}
+#Dinner{
+  background-image: url("../images/dinner.jpg");
+  color: white;
+}
+#Happy-hour{
+ height: 100px;
+}
+#Party-time{
+  background-color: #ff3647;
+  height: 100px;
+}
+#landing{
+  height: 200px;
+}
+#fast-Food{
+  height: 100px;
+  padding-top: 20px;
+}
+.card{
+  float: left;
+}
