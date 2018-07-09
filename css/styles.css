@@ -61,3 +61,13 @@
   padding-bottom: ;
   float: ;
 }
+.foodsBg{
+  background-image: url("../images/foodsBg.jpg");
+}
+
+.demo {
+  background-image: url("../images/foodsBg.jpg");
+}
+.demo p{
+  color: white;
+}
