@@ -43,23 +43,37 @@
 }
 .fast-Food{
   margin: auto;
+  border-style: solid;
+  border-width: 20px;
+  box-shadow: 0 0 10px 10px #F2F2F2;
+  border-color: white;
+  margin-top: 3em;
+
 }
-.card{
+.cardd{
   float: left;
+  padding: 10px 10px 10px 10px;
+  box-shadow: 0 0 10px 10px #FFFFFF;
+  border-color: white;
+  margin-top: 3em;
 }
 .food-text{
-  text-align: center;
+  text-align: left;
   padding-right: 50px;
+  margin-top: 3em;
 
 }
 .drinks{
-  float: ;
-  padding-right: ;
-  padding-bottom: ;
+  float: right;
+  padding-right:10px 10px 10px 10px ;
+  box-shadow: 0 0 10px #FFFFFF;
+  border-color: white;
+  margin-top: 3em;
+  margin-bottom: 2em;
 }
 .drink-text{
-  padding-bottom: ;
-  float: ;
+  text-align: right;
+  margin-top: 3em;
 }
 .foodsBg{
   background-image: url("../images/foodsBg.jpg");
@@ -67,7 +81,24 @@
 
 .demo {
   background-image: url("../images/foodsBg.jpg");
+  height: 500px;
 }
-.demo p{
-  color: white;
+.comments p{
+  box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.7);
+  padding:10px;
+  border: 2px solid rgba(211, 211, 211, 0.14);
+}
+.abby{
+  background-color: white;
+  height: 300px;
+  margin-top: 30px;
+}
+.imgtext{
+  position: absolute;
+  left:60px;
+  bottom: -60px;
+  font-family: serif;
+  font-size: 20px;
+  color: #F15A29;
+  font-weight: bold;
 }
