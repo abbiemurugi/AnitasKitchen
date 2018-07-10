@@ -86,9 +86,19 @@
   height: 700px;
 }
 .comments {
-  box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.7);
-  margin-top: 20em;
-  border: 2px solid rgba(211, 211, 211, 0.14);
+  text-align: center;
+  box-shadow: 0 0 10px 10px #F2F2F2;
+  border-style: solid;
+  border-width: 20px;
+  border-color: white;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+.comments h5 {
+  color: red;
+}
+.comments h3 {
+  color: red;
 }
 .abby{
   background-color: white;
