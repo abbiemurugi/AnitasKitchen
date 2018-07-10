@@ -1,15 +1,15 @@
-#title
+# Title
  Anita's Kitchen
-##Author
+## Author
  Abigail Murugi
-##description
- Its a project called Anita's Kitchen which uses Html, css language etc to create a landing page abd design it for her business 
-##complete setup
- Browser
- git
-##bugs
+## Description
+ Its a project called Anita's Kitchen which uses Html, css language etc to create a landing page abd design it for her business
+## Complete setup
+* Browser
+* git
+## Bugs
 Internet Explorer
-##license
+## License
 Copyright (c) <2018> <Abigail Murugi>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
