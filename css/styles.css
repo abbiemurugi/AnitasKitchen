@@ -65,11 +65,13 @@
 }
 .drinks{
   float: right;
-  padding-right:10px 10px 10px 10px ;
-  box-shadow: 0 0 10px #FFFFFF;
+  padding:10px 10px 10px 10px;
+  box-shadow: 0 0 10px 10px #F2F2F2;
+  border-color: white;
   border-color: white;
   margin-top: 3em;
   margin-bottom: 2em;
+  margin-right: 20px;
 }
 .drink-text{
   text-align: right;
@@ -81,17 +83,17 @@
 
 .demo {
   background-image: url("../images/foodsBg.jpg");
-  height: 500px;
+  height: 700px;
 }
 .comments {
   box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.7);
-  margin-top: 15em;
+  margin-top: 20em;
   border: 2px solid rgba(211, 211, 211, 0.14);
 }
 .abby{
   background-color: white;
   height: 300px;
-  margin-top: 30px;
+  margin-top: 200px;
   padding-left: 50px;
 }
 .imgtext{
@@ -165,4 +167,5 @@ color: #ecf0f1;
   height: 250px;
   text-align: center;
   color: white;
+  padding-top: 50px;
 }
